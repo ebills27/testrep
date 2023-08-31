@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Lab 1 Project!!</title>
+  <title>Tech Nerd!!</title>
 </head>
 <body>
   <p>&amp; This is my first website!</p>
